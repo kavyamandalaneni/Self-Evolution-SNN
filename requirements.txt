@@ -1,0 +1,14 @@
+torch
+torchvision
+matplotlib
+streamlit
+pandas
+numpy
+tqdm
+
+
+# python version 3.12
+# create conda(download miniconda if you don't have already) env using command `conda create -n <name> python=3.12 -y`
+# conda activate <name>
+# pip install -r requirements.txt
+# streamlit run app.py
